@@ -1,4 +1,4 @@
-Visug.SPA
+SDN.SPA
 =========
 These are the samples for my SDN session 'Single Page web Applications for the WPF/ Silverlight developer'.  
 This talk was given on 06/06/2014 at SDN, the Netherlands and focuses on AngularJS.
